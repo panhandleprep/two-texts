@@ -1,0 +1,3 @@
+Swap the first sentence and the last sentence.
+Replace every common noun with "taco."
+Replace all instances of "not" with "definately".
