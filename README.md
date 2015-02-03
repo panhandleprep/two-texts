@@ -1,7 +1,7 @@
 Two Texts
 =========
 
-This is the first asignemt.
+This is the first assignment.
 
 Prelude
 -------
