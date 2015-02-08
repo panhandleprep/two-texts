@@ -2,4 +2,5 @@ If a sentence starts with the word "I" change it to "We"
 Replace every gerund with “belly flopping.”
 Where you see a period put an exclamation point.
 If the word “like’ appears replace it with the phrase “such as”
-If the word “such” appears then replace it with the word “like” 
+If the word “such” appears then replace it with the word “like” if the word “such” starts a sentence add a comma before replacing it with the word “like”
+
